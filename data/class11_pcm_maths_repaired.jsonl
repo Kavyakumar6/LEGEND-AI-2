@@ -1,0 +1,20 @@
+{"question": "What is a set?", "answer": "A set is a well-defined collection of distinct objects."}
+{"question": "What is a subset?", "answer": "A set A is a subset of B if every element of A is also an element of B."}
+{"question": "What is a universal set?", "answer": "A universal set is the set containing all objects under consideration in a particular discussion."}
+{"question": "What is a function?", "answer": "A function is a relation in which every element of the domain is associated with exactly one element of the codomain."}
+{"question": "What is the domain of a function?", "answer": "The domain is the set of all permitted input values of a function."}
+{"question": "What is the range of a function?", "answer": "The range is the set of output values actually obtained from the domain."}
+{"question": "What is an ordered pair?", "answer": "An ordered pair consists of two elements written in a fixed order, such as (a,b)."}
+{"question": "What is a relation?", "answer": "A relation from one set to another is a collection of ordered pairs connecting elements of the two sets."}
+{"question": "What is a sequence?", "answer": "A sequence is an ordered list of numbers or other objects following a specified pattern or rule."}
+{"question": "What is an arithmetic progression?", "answer": "An arithmetic progression is a sequence in which the difference between consecutive terms is constant."}
+{"question": "What is the common difference of an AP?", "answer": "The common difference is the constant value obtained by subtracting one term from the next term."}
+{"question": "What is a geometric progression?", "answer": "A geometric progression is a sequence in which the ratio of consecutive terms is constant."}
+{"question": "What is a quadratic equation?", "answer": "A quadratic equation is an equation of the form ax² + bx + c = 0, where a is not zero."}
+{"question": "What is a matrix?", "answer": "A matrix is a rectangular arrangement of numbers or other quantities in rows and columns."}
+{"question": "What is a determinant?", "answer": "A determinant is a scalar value associated with a square matrix and is computed from its entries."}
+{"question": "What is a complex number?", "answer": "A complex number has the form a + ib, where a and b are real numbers and i² = -1."}
+{"question": "What is the modulus of a complex number?", "answer": "For z = a + ib, its modulus is |z| = √(a² + b²)."}
+{"question": "What is a limit?", "answer": "The limit of a function describes the value that the function approaches as its input approaches a specified value."}
+{"question": "What is a derivative?", "answer": "The derivative measures the instantaneous rate of change of a function with respect to its variable."}
+{"question": "What is the derivative of x²?", "answer": "The derivative of x² with respect to x is 2x."}

@@ -1,0 +1,20 @@
+{"question": "What is continuity of a function?", "answer": "A function is continuous at a point if its limit at that point equals its function value."}
+{"question": "What is differentiability?", "answer": "A function is differentiable at a point if its derivative exists there."}
+{"question": "What is an indefinite integral?", "answer": "An indefinite integral represents a family of antiderivatives and is written with an arbitrary constant."}
+{"question": "What is a definite integral?", "answer": "A definite integral gives the signed accumulated value of a function over a specified interval."}
+{"question": "What is a differential equation?", "answer": "A differential equation is an equation involving an unknown function and one or more of its derivatives."}
+{"question": "What is the order of a differential equation?", "answer": "The order is the highest order derivative present in the differential equation."}
+{"question": "What is a vector?", "answer": "A vector is a quantity having both magnitude and direction."}
+{"question": "What is a scalar?", "answer": "A scalar is a quantity described completely by magnitude and has no direction."}
+{"question": "What is a unit vector?", "answer": "A unit vector is a vector whose magnitude is one."}
+{"question": "What is the dot product?", "answer": "The dot product of vectors a and b is a·b = |a||b|cosθ and produces a scalar."}
+{"question": "What is the cross product?", "answer": "The cross product of vectors a and b produces a vector perpendicular to both, with magnitude |a||b|sinθ."}
+{"question": "What is probability?", "answer": "Probability is a numerical measure of how likely an event is to occur, with values from 0 to 1."}
+{"question": "What is a random variable?", "answer": "A random variable assigns numerical values to outcomes of a random experiment."}
+{"question": "What is conditional probability?", "answer": "Conditional probability is the probability of an event given that another event has occurred."}
+{"question": "What is a linear programming problem?", "answer": "A linear programming problem seeks to maximize or minimize a linear objective function subject to linear constraints."}
+{"question": "What is an objective function?", "answer": "The objective function is the linear expression that is maximized or minimized in a linear programming problem."}
+{"question": "What is a feasible region?", "answer": "The feasible region is the set of points satisfying all constraints of a linear programming problem."}
+{"question": "What is a relation in inverse trigonometry?", "answer": "Inverse trigonometric functions give principal angle values corresponding to specified trigonometric ratios."}
+{"question": "What is the derivative of sin x?", "answer": "The derivative of sin x with respect to x is cos x."}
+{"question": "What is the derivative of cos x?", "answer": "The derivative of cos x with respect to x is -sin x."}
